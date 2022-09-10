@@ -1,0 +1,3 @@
+= Inferred Title docb
+
+version: v1.0.0
