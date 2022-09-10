@@ -1,4 +1,0 @@
-{:cljdoc.doc/tree
- [["Readme" {:file "README.md"}]
-  ["new explicit doca title" {:file "doc/doca.md"}]
-  ["new explicit docb title" {:file "doc/docb.adoc"}]]}
